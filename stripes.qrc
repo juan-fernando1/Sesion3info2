@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/sprite_explosion_2.png</file>
+        <file>imagenes/sprite_spaceship.png</file>
+        <file>imagenes/space.jpeg</file>
+        <file>imagenes/sprite_bullet.png</file>
+    </qresource>
+</RCC>

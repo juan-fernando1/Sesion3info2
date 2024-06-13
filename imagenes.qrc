@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/space.jpeg</file>
+        <file>../../../Downloads/sprite_bullet.png</file>
+        <file>../../../Downloads/sprite_explosion_2.png</file>
+        <file>../../../Downloads/sprite_spaceship.png</file>
+    </qresource>
+</RCC>
